@@ -7,3 +7,7 @@ Edit `index.js` to derive PI however you can!  The test suite will pass when you
 Run the test suite: `npm test`.
 
 Re-run automatically by installing nodemon `npm i -g nodemon` and then running `nodemon test/index.js`.
+
+## Solutions
+
+I'll be storing various solutions as branches in this repository.
